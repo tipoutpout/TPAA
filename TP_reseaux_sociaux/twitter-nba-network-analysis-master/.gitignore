@@ -1,0 +1,4 @@
+venv/
+.idea/
+app_secrets/
+*.csv
